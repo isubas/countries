@@ -1,0 +1,1716 @@
+---
+AF:
+  :en: Afghanistan
+  :tr: Afganistan
+  :alpha_2: AF
+  :alpha_3: AFG
+  :domain: ".af"
+  :numeric_code: '004'
+AX:
+  :en: Aland Islands
+  :tr: Aland Adaları
+  :alpha_2: AX
+  :alpha_3: ALA
+  :domain: ".ax"
+  :numeric_code: '248'
+AL:
+  :en: Albania
+  :tr: Arnavutluk
+  :alpha_2: AL
+  :alpha_3: ALB
+  :domain: ".al"
+  :numeric_code: '008'
+DZ:
+  :en: Algeria
+  :tr: Cezayir
+  :alpha_2: DZ
+  :alpha_3: DZA
+  :domain: ".dz"
+  :numeric_code: '012'
+AS:
+  :en: American Samoa
+  :tr: Amerikan Samoası
+  :alpha_2: AS
+  :alpha_3: ASM
+  :domain: ".as"
+  :numeric_code: '016'
+AD:
+  :en: Andorra
+  :tr: Andora
+  :alpha_2: AD
+  :alpha_3: AND
+  :domain: ".ad"
+  :numeric_code: '020'
+AO:
+  :en: Angola
+  :tr: Angola
+  :alpha_2: AO
+  :alpha_3: AGO
+  :domain: ".ao"
+  :numeric_code: '024'
+AI:
+  :en: Anguilla
+  :tr: Anguilla
+  :alpha_2: AI
+  :alpha_3: AIA
+  :domain: ".ai"
+  :numeric_code: '660'
+AQ:
+  :en: Antarctica
+  :tr: Antarktika
+  :alpha_2: AQ
+  :alpha_3: ATA
+  :domain: ".aq"
+  :numeric_code: '010'
+AG:
+  :en: Antigua and Barbuda
+  :tr: Antigua ve Barbuda
+  :alpha_2: AG
+  :alpha_3: ATG
+  :domain: ".ag"
+  :numeric_code: '028'
+AR:
+  :en: Argentina
+  :tr: Arjantin
+  :alpha_2: AR
+  :alpha_3: ARG
+  :domain: ".ar"
+  :numeric_code: '032'
+AM:
+  :en: Armenia
+  :tr: Ermenistan
+  :alpha_2: AM
+  :alpha_3: ARM
+  :domain: ".am"
+  :numeric_code: '051'
+AW:
+  :en: Aruba
+  :tr: Aruba
+  :alpha_2: AW
+  :alpha_3: ABW
+  :domain: ".aw"
+  :numeric_code: '533'
+AU:
+  :en: Australia
+  :tr: Avustralya
+  :alpha_2: AU
+  :alpha_3: AUS
+  :domain: ".au"
+  :numeric_code: '036'
+AT:
+  :en: Austria
+  :tr: Avusturya
+  :alpha_2: AT
+  :alpha_3: AUT
+  :domain: ".at"
+  :numeric_code: '040'
+AZ:
+  :en: Azerbaijan
+  :tr: Azerbaycan
+  :alpha_2: AZ
+  :alpha_3: AZE
+  :domain: ".az"
+  :numeric_code: '031'
+BS:
+  :en: Bahamas
+  :tr: Bahamalar
+  :alpha_2: BS
+  :alpha_3: BHS
+  :domain: ".bs"
+  :numeric_code: '044'
+BH:
+  :en: Bahrain
+  :tr: Bahreyn
+  :alpha_2: BH
+  :alpha_3: BHR
+  :domain: ".bh"
+  :numeric_code: '048'
+BD:
+  :en: Bangladesh
+  :tr: Bangladeş
+  :alpha_2: BD
+  :alpha_3: BGD
+  :domain: ".bd"
+  :numeric_code: '050'
+BB:
+  :en: Barbados
+  :tr: Barbados
+  :alpha_2: BB
+  :alpha_3: BRB
+  :domain: ".bb"
+  :numeric_code: '052'
+BY:
+  :en: Belarus
+  :tr: Beyaz Rusya
+  :alpha_2: BY
+  :alpha_3: BLR
+  :domain: ".by"
+  :numeric_code: '112'
+BE:
+  :en: Belgium
+  :tr: Belçika
+  :alpha_2: BE
+  :alpha_3: BEL
+  :domain: ".be"
+  :numeric_code: '056'
+BZ:
+  :en: Belize
+  :tr: Belize
+  :alpha_2: BZ
+  :alpha_3: BLZ
+  :domain: ".bz"
+  :numeric_code: '084'
+BJ:
+  :en: Benin
+  :tr: Benin
+  :alpha_2: BJ
+  :alpha_3: BEN
+  :domain: ".bj"
+  :numeric_code: '204'
+BM:
+  :en: Bermuda
+  :tr: Bermuda
+  :alpha_2: BM
+  :alpha_3: BMU
+  :domain: ".bm"
+  :numeric_code: '060'
+BT:
+  :en: Bhutan
+  :tr: Bhutan
+  :alpha_2: BT
+  :alpha_3: BTN
+  :domain: ".bt"
+  :numeric_code: '064'
+BO:
+  :en: Bolivia
+  :tr: Bolivya
+  :alpha_2: BO
+  :alpha_3: BOL
+  :domain: ".bo"
+  :numeric_code: '068'
+BA:
+  :en: Bosnia and Herzegovina
+  :tr: Bosna Hersek
+  :alpha_2: BA
+  :alpha_3: BIH
+  :domain: ".ba"
+  :numeric_code: '070'
+BW:
+  :en: Botswana
+  :tr: Botsvana
+  :alpha_2: BW
+  :alpha_3: BWA
+  :domain: ".bw"
+  :numeric_code: '072'
+BV:
+  :en: Bouvet Island
+  :tr: Bouvet Adası
+  :alpha_2: BV
+  :alpha_3: BVT
+  :domain: ".bv"
+  :numeric_code: '074'
+BR:
+  :en: Brazil
+  :tr: Brezilya
+  :alpha_2: BR
+  :alpha_3: BRA
+  :domain: ".br"
+  :numeric_code: '076'
+IO:
+  :en: British Indian Ocean Territory
+  :tr: Hint Okyanusu İngiliz Bölgesi
+  :alpha_2: IO
+  :alpha_3: IOT
+  :domain: ".io"
+  :numeric_code: '086'
+VG:
+  :en: British Virgin Islands
+  :tr: İngiliz Virgin Adaları
+  :alpha_2: VG
+  :alpha_3: VGB
+  :domain: ".vg"
+  :numeric_code: '092'
+BN:
+  :en: Brunei
+  :tr: Brunei
+  :alpha_2: BN
+  :alpha_3: BRN
+  :domain: ".bn"
+  :numeric_code: '096'
+BG:
+  :en: Bulgaria
+  :tr: Bulgaristan
+  :alpha_2: BG
+  :alpha_3: BGR
+  :domain: ".bg"
+  :numeric_code: '100'
+BF:
+  :en: Burkina Faso
+  :tr: Burkina Faso
+  :alpha_2: BF
+  :alpha_3: BFA
+  :domain: ".bf"
+  :numeric_code: '854'
+BI:
+  :en: Burundi
+  :tr: Burundi
+  :alpha_2: BI
+  :alpha_3: BDI
+  :domain: ".bi"
+  :numeric_code: '108'
+KH:
+  :en: Cambodia
+  :tr: Kamboçya
+  :alpha_2: KH
+  :alpha_3: KHM
+  :domain: ".kh"
+  :numeric_code: '116'
+CM:
+  :en: Cameroon
+  :tr: Kamerun
+  :alpha_2: CM
+  :alpha_3: CMR
+  :domain: ".cm"
+  :numeric_code: '120'
+CA:
+  :en: Canada
+  :tr: Kanada
+  :alpha_2: CA
+  :alpha_3: CAN
+  :domain: ".ca"
+  :numeric_code: '124'
+CV:
+  :en: Cape Verde
+  :tr: Cape Verde
+  :alpha_2: CV
+  :alpha_3: CPV
+  :domain: ".cv"
+  :numeric_code: '132'
+KY:
+  :en: Cayman Islands
+  :tr: Kayman Adaları
+  :alpha_2: KY
+  :alpha_3: CYM
+  :domain: ".ky"
+  :numeric_code: '136'
+CF:
+  :en: Central African Republic
+  :tr: Orta Afrika Cumhuriyeti
+  :alpha_2: CF
+  :alpha_3: CAF
+  :domain: ".cf"
+  :numeric_code: '140'
+TD:
+  :en: Chad
+  :tr: Çad
+  :alpha_2: TD
+  :alpha_3: TCD
+  :domain: ".td"
+  :numeric_code: '148'
+CL:
+  :en: Chile
+  :tr: Şili
+  :alpha_2: CL
+  :alpha_3: CHL
+  :domain: ".cl"
+  :numeric_code: '152'
+CN:
+  :en: China
+  :tr: Çin
+  :alpha_2: CN
+  :alpha_3: CHN
+  :domain: ".cn"
+  :numeric_code: '156'
+CX:
+  :en: Christmas Island
+  :tr: Christmas Adası
+  :alpha_2: CX
+  :alpha_3: CXR
+  :domain: ".cx"
+  :numeric_code: '162'
+CC:
+  :en: Cocos Islands
+  :tr: Cocos Adaları
+  :alpha_2: CC
+  :alpha_3: CCK
+  :domain: ".cc"
+  :numeric_code: '166'
+CO:
+  :en: Colombia
+  :tr: Kolombiya
+  :alpha_2: CO
+  :alpha_3: COL
+  :domain: ".co"
+  :numeric_code: '170'
+KM:
+  :en: Comoros
+  :tr: Komorlar
+  :alpha_2: KM
+  :alpha_3: COM
+  :domain: ".km"
+  :numeric_code: '174'
+CK:
+  :en: Cook Islands
+  :tr: Cook Adaları
+  :alpha_2: CK
+  :alpha_3: COK
+  :domain: ".ck"
+  :numeric_code: '184'
+CR:
+  :en: Costa Rica
+  :tr: Kosta Rika
+  :alpha_2: CR
+  :alpha_3: CRI
+  :domain: ".cr"
+  :numeric_code: '188'
+HR:
+  :en: Croatia
+  :tr: Hırvatistan
+  :alpha_2: HR
+  :alpha_3: HRV
+  :domain: ".hr"
+  :numeric_code: '191'
+CU:
+  :en: Cuba
+  :tr: Küba
+  :alpha_2: CU
+  :alpha_3: CUB
+  :domain: ".cu"
+  :numeric_code: '192'
+CY:
+  :en: Cyprus
+  :tr: Güney Kıbrıs Rum Kesimi
+  :alpha_2: CY
+  :alpha_3: CYP
+  :domain: ".cy"
+  :numeric_code: '196'
+CZ:
+  :en: Czech Republic
+  :tr: Çek Cumhuriyeti
+  :alpha_2: CZ
+  :alpha_3: CZE
+  :domain: ".cz"
+  :numeric_code: '203'
+CD:
+  :en: Democratic Republic of the Congo
+  :tr: Kongo Demokratik Cumhuriyeti
+  :alpha_2: CD
+  :alpha_3: COD
+  :domain: ".cd"
+  :numeric_code: '180'
+DK:
+  :en: Denmark
+  :tr: Danimarka
+  :alpha_2: DK
+  :alpha_3: DNK
+  :domain: ".dk"
+  :numeric_code: '208'
+DJ:
+  :en: Djibouti
+  :tr: Cibuti
+  :alpha_2: DJ
+  :alpha_3: DJI
+  :domain: ".dj"
+  :numeric_code: '262'
+DM:
+  :en: Dominica
+  :tr: Dominik
+  :alpha_2: DM
+  :alpha_3: DMA
+  :domain: ".dm"
+  :numeric_code: '212'
+DO:
+  :en: Dominican Republic
+  :tr: Dominik Cumhuriyeti
+  :alpha_2: DO
+  :alpha_3: DOM
+  :domain: ".do"
+  :numeric_code: '214'
+TL:
+  :en: East Timor
+  :tr: Doğu Timor
+  :alpha_2: TL
+  :alpha_3: TLS
+  :domain: ".tl"
+  :numeric_code: '626'
+EC:
+  :en: Ecuador
+  :tr: Ekvator
+  :alpha_2: EC
+  :alpha_3: ECU
+  :domain: ".ec"
+  :numeric_code: '218'
+EG:
+  :en: Egypt
+  :tr: Mısır
+  :alpha_2: EG
+  :alpha_3: EGY
+  :domain: ".eg"
+  :numeric_code: '818'
+SV:
+  :en: El Salvador
+  :tr: El Salvador
+  :alpha_2: SV
+  :alpha_3: SLV
+  :domain: ".sv"
+  :numeric_code: '222'
+GQ:
+  :en: Equatorial Guinea
+  :tr: Ekvator Ginesi
+  :alpha_2: GQ
+  :alpha_3: GNQ
+  :domain: ".gq"
+  :numeric_code: '226'
+ER:
+  :en: Eritrea
+  :tr: Eritre
+  :alpha_2: ER
+  :alpha_3: ERI
+  :domain: ".er"
+  :numeric_code: '232'
+EE:
+  :en: Estonia
+  :tr: Estonya
+  :alpha_2: EE
+  :alpha_3: EST
+  :domain: ".ee"
+  :numeric_code: '233'
+ET:
+  :en: Ethiopia
+  :tr: Etiyopya
+  :alpha_2: ET
+  :alpha_3: ETH
+  :domain: ".et"
+  :numeric_code: '231'
+FK:
+  :en: Falkland Islands
+  :tr: Falkland Adaları (Malvinalar)
+  :alpha_2: FK
+  :alpha_3: FLK
+  :domain: ".fk"
+  :numeric_code: '238'
+FO:
+  :en: Faroe Islands
+  :tr: Faroe Adaları
+  :alpha_2: FO
+  :alpha_3: FRO
+  :domain: ".fo"
+  :numeric_code: '234'
+FJ:
+  :en: Fiji
+  :tr: Fiji
+  :alpha_2: FJ
+  :alpha_3: FJI
+  :domain: ".fj"
+  :numeric_code: '242'
+FI:
+  :en: Finland
+  :tr: Finlandiya
+  :alpha_2: FI
+  :alpha_3: FIN
+  :domain: ".fi"
+  :numeric_code: '246'
+FR:
+  :en: France
+  :tr: Fransa
+  :alpha_2: FR
+  :alpha_3: FRA
+  :domain: ".fr"
+  :numeric_code: '250'
+GF:
+  :en: French Guiana
+  :tr: Fransız Guyanası
+  :alpha_2: GF
+  :alpha_3: GUF
+  :domain: ".gf"
+  :numeric_code: '254'
+PF:
+  :en: French Polynesia
+  :tr: Fransız Polinezyası
+  :alpha_2: PF
+  :alpha_3: PYF
+  :domain: ".pf"
+  :numeric_code: '258'
+TF:
+  :en: French Southern Territories
+  :tr: Fransız Güney Bölgeleri
+  :alpha_2: TF
+  :alpha_3: ATF
+  :domain: ".tf"
+  :numeric_code: '260'
+GA:
+  :en: Gabon
+  :tr: Gabon
+  :alpha_2: GA
+  :alpha_3: GAB
+  :domain: ".ga"
+  :numeric_code: '266'
+GM:
+  :en: Gambia
+  :tr: Gambia
+  :alpha_2: GM
+  :alpha_3: GMB
+  :domain: ".gm"
+  :numeric_code: '270'
+GE:
+  :en: Georgia
+  :tr: Gürcistan
+  :alpha_2: GE
+  :alpha_3: GEO
+  :domain: ".ge"
+  :numeric_code: '268'
+DE:
+  :en: Germany
+  :tr: Almanya
+  :alpha_2: DE
+  :alpha_3: DEU
+  :domain: ".de"
+  :numeric_code: '276'
+GH:
+  :en: Ghana
+  :tr: Gana
+  :alpha_2: GH
+  :alpha_3: GHA
+  :domain: ".gh"
+  :numeric_code: '288'
+GI:
+  :en: Gibraltar
+  :tr: Cebelitarık
+  :alpha_2: GI
+  :alpha_3: GIB
+  :domain: ".gi"
+  :numeric_code: '292'
+GR:
+  :en: Greece
+  :tr: Yunanistan
+  :alpha_2: GR
+  :alpha_3: GRC
+  :domain: ".gr"
+  :numeric_code: '300'
+GL:
+  :en: Greenland
+  :tr: Grönland
+  :alpha_2: GL
+  :alpha_3: GRL
+  :domain: ".gl"
+  :numeric_code: '304'
+GD:
+  :en: Grenada
+  :tr: Granada
+  :alpha_2: GD
+  :alpha_3: GRD
+  :domain: ".gd"
+  :numeric_code: '308'
+GP:
+  :en: Guadeloupe
+  :tr: Guadeloupe
+  :alpha_2: GP
+  :alpha_3: GLP
+  :domain: ".gp"
+  :numeric_code: '312'
+GU:
+  :en: Guam
+  :tr: Guam
+  :alpha_2: GU
+  :alpha_3: GUM
+  :domain: ".gu"
+  :numeric_code: '316'
+GT:
+  :en: Guatemala
+  :tr: Guatemala
+  :alpha_2: GT
+  :alpha_3: GTM
+  :domain: ".gt"
+  :numeric_code: '320'
+GG:
+  :en: Guernsey
+  :tr: Guernsey
+  :alpha_2: GG
+  :alpha_3: GGY
+  :domain: ".gg"
+  :numeric_code: '831'
+GN:
+  :en: Guinea
+  :tr: Gine
+  :alpha_2: GN
+  :alpha_3: GIN
+  :domain: ".gn"
+  :numeric_code: '324'
+GW:
+  :en: Guinea-Bissau
+  :tr: Gine-Bissau
+  :alpha_2: GW
+  :alpha_3: GNB
+  :domain: ".gw"
+  :numeric_code: '624'
+GY:
+  :en: Guyana
+  :tr: Guyana
+  :alpha_2: GY
+  :alpha_3: GUY
+  :domain: ".gy"
+  :numeric_code: '328'
+HT:
+  :en: Haiti
+  :tr: Haiti
+  :alpha_2: HT
+  :alpha_3: HTI
+  :domain: ".ht"
+  :numeric_code: '332'
+HM:
+  :en: Heard Island and McDonald Islands
+  :tr: Heard Adası ve McDonald Adaları
+  :alpha_2: HM
+  :alpha_3: HMD
+  :domain: ".hm"
+  :numeric_code: '334'
+HN:
+  :en: Honduras
+  :tr: Honduras
+  :alpha_2: HN
+  :alpha_3: HND
+  :domain: ".hn"
+  :numeric_code: '340'
+HK:
+  :en: Hong Kong
+  :tr: Hong Kong SAR - Çin
+  :alpha_2: HK
+  :alpha_3: HKG
+  :domain: ".hk"
+  :numeric_code: '344'
+HU:
+  :en: Hungary
+  :tr: Macaristan
+  :alpha_2: HU
+  :alpha_3: HUN
+  :domain: ".hu"
+  :numeric_code: '348'
+IS:
+  :en: Iceland
+  :tr: İzlanda
+  :alpha_2: IS
+  :alpha_3: ISL
+  :domain: ".is"
+  :numeric_code: '352'
+IN:
+  :en: India
+  :tr: Hindistan
+  :alpha_2: IN
+  :alpha_3: IND
+  :domain: ".in"
+  :numeric_code: '356'
+ID:
+  :en: Indonesia
+  :tr: Endonezya
+  :alpha_2: ID
+  :alpha_3: IDN
+  :domain: ".id"
+  :numeric_code: '360'
+IR:
+  :en: Iran
+  :tr: İran
+  :alpha_2: IR
+  :alpha_3: IRN
+  :domain: ".ir"
+  :numeric_code: '364'
+IQ:
+  :en: Iraq
+  :tr: Irak
+  :alpha_2: IQ
+  :alpha_3: IRQ
+  :domain: ".iq"
+  :numeric_code: '368'
+IE:
+  :en: Ireland
+  :tr: İrlanda
+  :alpha_2: IE
+  :alpha_3: IRL
+  :domain: ".ie"
+  :numeric_code: '372'
+IM:
+  :en: Isle of Man
+  :tr: Man Adası
+  :alpha_2: IM
+  :alpha_3: IMN
+  :domain: ".im"
+  :numeric_code: '833'
+IL:
+  :en: Israel
+  :tr: İsrail
+  :alpha_2: IL
+  :alpha_3: ISR
+  :domain: ".il"
+  :numeric_code: '376'
+IT:
+  :en: Italy
+  :tr: İtalya
+  :alpha_2: IT
+  :alpha_3: ITA
+  :domain: ".it"
+  :numeric_code: '380'
+CI:
+  :en: Ivory Coast
+  :tr: Fildişi Sahilleri
+  :alpha_2: CI
+  :alpha_3: CIV
+  :domain: ".ci"
+  :numeric_code: '384'
+JM:
+  :en: Jamaica
+  :tr: Jamaika
+  :alpha_2: JM
+  :alpha_3: JAM
+  :domain: ".jm"
+  :numeric_code: '388'
+JP:
+  :en: Japan
+  :tr: Japonya
+  :alpha_2: JP
+  :alpha_3: JPN
+  :domain: ".jp"
+  :numeric_code: '392'
+JE:
+  :en: Jersey
+  :tr: Jersey
+  :alpha_2: JE
+  :alpha_3: JEY
+  :domain: ".je"
+  :numeric_code: '832'
+JO:
+  :en: Jordan
+  :tr: Ürdün
+  :alpha_2: JO
+  :alpha_3: JOR
+  :domain: ".jo"
+  :numeric_code: '400'
+KZ:
+  :en: Kazakhstan
+  :tr: Kazakistan
+  :alpha_2: KZ
+  :alpha_3: KAZ
+  :domain: ".kz"
+  :numeric_code: '398'
+KE:
+  :en: Kenya
+  :tr: Kenya
+  :alpha_2: KE
+  :alpha_3: KEN
+  :domain: ".ke"
+  :numeric_code: '404'
+KI:
+  :en: Kiribati
+  :tr: Kiribati
+  :alpha_2: KI
+  :alpha_3: KIR
+  :domain: ".ki"
+  :numeric_code: '296'
+KW:
+  :en: Kuwait
+  :tr: Kuveyt
+  :alpha_2: KW
+  :alpha_3: KWT
+  :domain: ".kw"
+  :numeric_code: '414'
+KG:
+  :en: Kyrgyzstan
+  :tr: Kırgızistan
+  :alpha_2: KG
+  :alpha_3: KGZ
+  :domain: ".kg"
+  :numeric_code: '417'
+LA:
+  :en: Laos
+  :tr: Laos
+  :alpha_2: LA
+  :alpha_3: LAO
+  :domain: ".la"
+  :numeric_code: '418'
+LV:
+  :en: Latvia
+  :tr: Letonya
+  :alpha_2: LV
+  :alpha_3: LVA
+  :domain: ".lv"
+  :numeric_code: '428'
+LB:
+  :en: Lebanon
+  :tr: Lübnan
+  :alpha_2: LB
+  :alpha_3: LBN
+  :domain: ".lb"
+  :numeric_code: '422'
+LS:
+  :en: Lesotho
+  :tr: Lesotho
+  :alpha_2: LS
+  :alpha_3: LSO
+  :domain: ".ls"
+  :numeric_code: '426'
+LR:
+  :en: Liberia
+  :tr: Liberya
+  :alpha_2: LR
+  :alpha_3: LBR
+  :domain: ".lr"
+  :numeric_code: '430'
+LY:
+  :en: Libya
+  :tr: Libya
+  :alpha_2: LY
+  :alpha_3: LBY
+  :domain: ".ly"
+  :numeric_code: '434'
+LI:
+  :en: Liechtenstein
+  :tr: Liechtenstein
+  :alpha_2: LI
+  :alpha_3: LIE
+  :domain: ".li"
+  :numeric_code: '438'
+LT:
+  :en: Lithuania
+  :tr: Litvanya
+  :alpha_2: LT
+  :alpha_3: LTU
+  :domain: ".lt"
+  :numeric_code: '440'
+LU:
+  :en: Luxembourg
+  :tr: Lüksemburg
+  :alpha_2: LU
+  :alpha_3: LUX
+  :domain: ".lu"
+  :numeric_code: '442'
+MO:
+  :en: Macao
+  :tr: Makao S.A.R. Çin
+  :alpha_2: MO
+  :alpha_3: MAC
+  :domain: ".mo"
+  :numeric_code: '446'
+MK:
+  :en: Macedonia
+  :tr: Makedonya
+  :alpha_2: MK
+  :alpha_3: MKD
+  :domain: ".mk"
+  :numeric_code: '807'
+MG:
+  :en: Madagascar
+  :tr: Madagaskar
+  :alpha_2: MG
+  :alpha_3: MDG
+  :domain: ".mg"
+  :numeric_code: '450'
+MW:
+  :en: Malawi
+  :tr: Malavi
+  :alpha_2: MW
+  :alpha_3: MWI
+  :domain: ".mw"
+  :numeric_code: '454'
+MY:
+  :en: Malaysia
+  :tr: Malezya
+  :alpha_2: MY
+  :alpha_3: MYS
+  :domain: ".my"
+  :numeric_code: '458'
+MV:
+  :en: Maldives
+  :tr: Maldivler
+  :alpha_2: MV
+  :alpha_3: MDV
+  :domain: ".mv"
+  :numeric_code: '462'
+ML:
+  :en: Mali
+  :tr: Mali
+  :alpha_2: ML
+  :alpha_3: MLI
+  :domain: ".ml"
+  :numeric_code: '466'
+MT:
+  :en: Malta
+  :tr: Malta
+  :alpha_2: MT
+  :alpha_3: MLT
+  :domain: ".mt"
+  :numeric_code: '470'
+MH:
+  :en: Marshall Islands
+  :tr: Marshall Adaları
+  :alpha_2: MH
+  :alpha_3: MHL
+  :domain: ".mh"
+  :numeric_code: '584'
+MQ:
+  :en: Martinique
+  :tr: Martinik
+  :alpha_2: MQ
+  :alpha_3: MTQ
+  :domain: ".mq"
+  :numeric_code: '474'
+MR:
+  :en: Mauritania
+  :tr: Moritanya
+  :alpha_2: MR
+  :alpha_3: MRT
+  :domain: ".mr"
+  :numeric_code: '478'
+MU:
+  :en: Mauritius
+  :tr: Mauritius
+  :alpha_2: MU
+  :alpha_3: MUS
+  :domain: ".mu"
+  :numeric_code: '480'
+YT:
+  :en: Mayotte
+  :tr: Mayotte
+  :alpha_2: YT
+  :alpha_3: MYT
+  :domain: ".yt"
+  :numeric_code: '175'
+MX:
+  :en: Mexico
+  :tr: Meksika
+  :alpha_2: MX
+  :alpha_3: MEX
+  :domain: ".mx"
+  :numeric_code: '484'
+FM:
+  :en: Micronesia
+  :tr: Mikronezya Federal Eyaletleri
+  :alpha_2: FM
+  :alpha_3: FSM
+  :domain: ".fm"
+  :numeric_code: '583'
+MD:
+  :en: Moldova
+  :tr: Moldovya Cumhuriyeti
+  :alpha_2: MD
+  :alpha_3: MDA
+  :domain: ".md"
+  :numeric_code: '498'
+MC:
+  :en: Monaco
+  :tr: Monako
+  :alpha_2: MC
+  :alpha_3: MCO
+  :domain: ".mc"
+  :numeric_code: '492'
+MN:
+  :en: Mongolia
+  :tr: Moğolistan
+  :alpha_2: MN
+  :alpha_3: MNG
+  :domain: ".mn"
+  :numeric_code: '496'
+ME:
+  :en: Montenegro
+  :tr: Karadağ
+  :alpha_2: ME
+  :alpha_3: MNE
+  :domain: ".me"
+  :numeric_code: '499'
+MS:
+  :en: Montserrat
+  :tr: Montserrat
+  :alpha_2: MS
+  :alpha_3: MSR
+  :domain: ".ms"
+  :numeric_code: '500'
+MA:
+  :en: Morocco
+  :tr: Fas
+  :alpha_2: MA
+  :alpha_3: MAR
+  :domain: ".ma"
+  :numeric_code: '504'
+MZ:
+  :en: Mozambique
+  :tr: Mozambik
+  :alpha_2: MZ
+  :alpha_3: MOZ
+  :domain: ".mz"
+  :numeric_code: '508'
+MM:
+  :en: Myanmar
+  :tr: Myanmar
+  :alpha_2: MM
+  :alpha_3: MMR
+  :domain: ".mm"
+  :numeric_code: '104'
+NA:
+  :en: Namibia
+  :tr: Namibya
+  :alpha_2: NA
+  :alpha_3: NAM
+  :domain: ".na"
+  :numeric_code: '516'
+NR:
+  :en: Nauru
+  :tr: Nauru
+  :alpha_2: NR
+  :alpha_3: NRU
+  :domain: ".nr"
+  :numeric_code: '520'
+NP:
+  :en: Nepal
+  :tr: Nepal
+  :alpha_2: NP
+  :alpha_3: NPL
+  :domain: ".np"
+  :numeric_code: '524'
+NL:
+  :en: Netherlands
+  :tr: Hollanda
+  :alpha_2: NL
+  :alpha_3: NLD
+  :domain: ".nl"
+  :numeric_code: '528'
+AN:
+  :en: Netherlands Antilles
+  :tr: Hollanda Antilleri
+  :alpha_2: AN
+  :alpha_3: ANT
+  :domain: ".an"
+  :numeric_code: '530'
+NC:
+  :en: New Caledonia
+  :tr: Yeni Kaledonya
+  :alpha_2: NC
+  :alpha_3: NCL
+  :domain: ".nc"
+  :numeric_code: '540'
+NZ:
+  :en: New Zealand
+  :tr: Yeni Zelanda
+  :alpha_2: NZ
+  :alpha_3: NZL
+  :domain: ".nz"
+  :numeric_code: '554'
+NI:
+  :en: Nicaragua
+  :tr: Nikaragua
+  :alpha_2: NI
+  :alpha_3: NIC
+  :domain: ".ni"
+  :numeric_code: '558'
+NE:
+  :en: Niger
+  :tr: Nijer
+  :alpha_2: NE
+  :alpha_3: NER
+  :domain: ".ne"
+  :numeric_code: '562'
+NG:
+  :en: Nigeria
+  :tr: Nijerya
+  :alpha_2: NG
+  :alpha_3: NGA
+  :domain: ".ng"
+  :numeric_code: '566'
+NU:
+  :en: Niue
+  :tr: Niue
+  :alpha_2: NU
+  :alpha_3: NIU
+  :domain: ".nu"
+  :numeric_code: '570'
+NF:
+  :en: Norfolk Island
+  :tr: Norfolk Adası
+  :alpha_2: NF
+  :alpha_3: NFK
+  :domain: ".nf"
+  :numeric_code: '574'
+KP:
+  :en: North Korea
+  :tr: Kuzey Kore
+  :alpha_2: KP
+  :alpha_3: PRK
+  :domain: ".kp"
+  :numeric_code: '408'
+MP:
+  :en: Northern Mariana Islands
+  :tr: Kuzey Mariana Adaları
+  :alpha_2: MP
+  :alpha_3: MNP
+  :domain: ".mp"
+  :numeric_code: '580'
+'NO':
+  :en: Norway
+  :tr: Norveç
+  :alpha_2: 'NO'
+  :alpha_3: NOR
+  :domain: ".no"
+  :numeric_code: '578'
+OM:
+  :en: Oman
+  :tr: Umman
+  :alpha_2: OM
+  :alpha_3: OMN
+  :domain: ".om"
+  :numeric_code: '512'
+PK:
+  :en: Pakistan
+  :tr: Pakistan
+  :alpha_2: PK
+  :alpha_3: PAK
+  :domain: ".pk"
+  :numeric_code: '586'
+PW:
+  :en: Palau
+  :tr: Palau
+  :alpha_2: PW
+  :alpha_3: PLW
+  :domain: ".pw"
+  :numeric_code: '585'
+PS:
+  :en: Palestinian Territory
+  :tr: Filistin Bölgesi
+  :alpha_2: PS
+  :alpha_3: PSE
+  :domain: ".ps"
+  :numeric_code: '275'
+PA:
+  :en: Panama
+  :tr: Panama
+  :alpha_2: PA
+  :alpha_3: PAN
+  :domain: ".pa"
+  :numeric_code: '591'
+PG:
+  :en: Papua New Guinea
+  :tr: Papua Yeni Gine
+  :alpha_2: PG
+  :alpha_3: PNG
+  :domain: ".pg"
+  :numeric_code: '598'
+PY:
+  :en: Paraguay
+  :tr: Paraguay
+  :alpha_2: PY
+  :alpha_3: PRY
+  :domain: ".py"
+  :numeric_code: '600'
+PE:
+  :en: Peru
+  :tr: Peru
+  :alpha_2: PE
+  :alpha_3: PER
+  :domain: ".pe"
+  :numeric_code: '604'
+PH:
+  :en: Philippines
+  :tr: Filipinler
+  :alpha_2: PH
+  :alpha_3: PHL
+  :domain: ".ph"
+  :numeric_code: '608'
+PN:
+  :en: Pitcairn
+  :tr: Pitcairn
+  :alpha_2: PN
+  :alpha_3: PCN
+  :domain: ".pn"
+  :numeric_code: '612'
+PL:
+  :en: Poland
+  :tr: Polonya
+  :alpha_2: PL
+  :alpha_3: POL
+  :domain: ".pl"
+  :numeric_code: '616'
+PT:
+  :en: Portugal
+  :tr: Portekiz
+  :alpha_2: PT
+  :alpha_3: PRT
+  :domain: ".pt"
+  :numeric_code: '620'
+PR:
+  :en: Puerto Rico
+  :tr: Porto Riko
+  :alpha_2: PR
+  :alpha_3: PRI
+  :domain: ".pr"
+  :numeric_code: '630'
+QA:
+  :en: Qatar
+  :tr: Katar
+  :alpha_2: QA
+  :alpha_3: QAT
+  :domain: ".qa"
+  :numeric_code: '634'
+CG:
+  :en: Republic of the Congo
+  :tr: Kongo
+  :alpha_2: CG
+  :alpha_3: COG
+  :domain: ".cg"
+  :numeric_code: '178'
+RE:
+  :en: Reunion
+  :tr: Reunion
+  :alpha_2: RE
+  :alpha_3: REU
+  :domain: ".re"
+  :numeric_code: '638'
+RO:
+  :en: Romania
+  :tr: Romanya
+  :alpha_2: RO
+  :alpha_3: ROU
+  :domain: ".ro"
+  :numeric_code: '642'
+RU:
+  :en: Russia
+  :tr: Rusya Federasyonu
+  :alpha_2: RU
+  :alpha_3: RUS
+  :domain: ".ru"
+  :numeric_code: '643'
+RW:
+  :en: Rwanda
+  :tr: Ruanda
+  :alpha_2: RW
+  :alpha_3: RWA
+  :domain: ".rw"
+  :numeric_code: '646'
+SH:
+  :en: Saint Helena
+  :tr: Saint Helena
+  :alpha_2: SH
+  :alpha_3: SHN
+  :domain: ".sh"
+  :numeric_code: '654'
+KN:
+  :en: Saint Kitts and Nevis
+  :tr: Saint Kitts ve Nevis
+  :alpha_2: KN
+  :alpha_3: KNA
+  :domain: ".kn"
+  :numeric_code: '659'
+LC:
+  :en: Saint Lucia
+  :tr: Saint Lucia
+  :alpha_2: LC
+  :alpha_3: LCA
+  :domain: ".lc"
+  :numeric_code: '662'
+PM:
+  :en: Saint Pierre and Miquelon
+  :tr: Saint Pierre ve Miquelon
+  :alpha_2: PM
+  :alpha_3: SPM
+  :domain: ".pm"
+  :numeric_code: '666'
+VC:
+  :en: Saint Vincent and the Grenadines
+  :tr: Saint Vincent ve Grenadinler
+  :alpha_2: VC
+  :alpha_3: VCT
+  :domain: ".vc"
+  :numeric_code: '670'
+WS:
+  :en: Samoa
+  :tr: Samoa
+  :alpha_2: WS
+  :alpha_3: WSM
+  :domain: ".ws"
+  :numeric_code: '882'
+SM:
+  :en: San Marino
+  :tr: San Marino
+  :alpha_2: SM
+  :alpha_3: SMR
+  :domain: ".sm"
+  :numeric_code: '674'
+ST:
+  :en: Sao Tome and Principe
+  :tr: Sao Tome ve Principe
+  :alpha_2: ST
+  :alpha_3: STP
+  :domain: ".st"
+  :numeric_code: '678'
+SA:
+  :en: Saudi Arabia
+  :tr: Suudi Arabistan
+  :alpha_2: SA
+  :alpha_3: SAU
+  :domain: ".sa"
+  :numeric_code: '682'
+SN:
+  :en: Senegal
+  :tr: Senegal
+  :alpha_2: SN
+  :alpha_3: SEN
+  :domain: ".sn"
+  :numeric_code: '686'
+RS:
+  :en: Serbia
+  :tr: Sırbistan
+  :alpha_2: RS
+  :alpha_3: SRB
+  :domain: ".rs"
+  :numeric_code: '688'
+CS:
+  :en: Serbia and Montenegro
+  :tr: Sırbistan-Karadağ
+  :alpha_2: CS
+  :alpha_3: SCG
+  :domain: ".cs"
+  :numeric_code: '891'
+SC:
+  :en: Seychelles
+  :tr: Seyşeller
+  :alpha_2: SC
+  :alpha_3: SYC
+  :domain: ".sc"
+  :numeric_code: '690'
+SL:
+  :en: Sierra Leone
+  :tr: Sierra Leone
+  :alpha_2: SL
+  :alpha_3: SLE
+  :domain: ".sl"
+  :numeric_code: '694'
+SG:
+  :en: Singapore
+  :tr: Singapur
+  :alpha_2: SG
+  :alpha_3: SGP
+  :domain: ".sg"
+  :numeric_code: '702'
+SK:
+  :en: Slovakia
+  :tr: Slovakya
+  :alpha_2: SK
+  :alpha_3: SVK
+  :domain: ".sk"
+  :numeric_code: '703'
+SI:
+  :en: Slovenia
+  :tr: Slovenya
+  :alpha_2: SI
+  :alpha_3: SVN
+  :domain: ".si"
+  :numeric_code: '705'
+SB:
+  :en: Solomon Islands
+  :tr: Solomon Adaları
+  :alpha_2: SB
+  :alpha_3: SLB
+  :domain: ".sb"
+  :numeric_code: '090'
+SO:
+  :en: Somalia
+  :tr: Somali
+  :alpha_2: SO
+  :alpha_3: SOM
+  :domain: ".so"
+  :numeric_code: '706'
+ZA:
+  :en: South Africa
+  :tr: Güney Afrika
+  :alpha_2: ZA
+  :alpha_3: ZAF
+  :domain: ".za"
+  :numeric_code: '710'
+GS:
+  :en: South Georgia and the South Sandwich Islands
+  :tr: Güney Georgia ve Güney Sandwich Adaları
+  :alpha_2: GS
+  :alpha_3: SGS
+  :domain: ".gs"
+  :numeric_code: '239'
+KR:
+  :en: South Korea
+  :tr: Güney Kore
+  :alpha_2: KR
+  :alpha_3: KOR
+  :domain: ".kr"
+  :numeric_code: '410'
+ES:
+  :en: Spain
+  :tr: İspanya
+  :alpha_2: ES
+  :alpha_3: ESP
+  :domain: ".es"
+  :numeric_code: '724'
+LK:
+  :en: Sri Lanka
+  :tr: Sri Lanka
+  :alpha_2: LK
+  :alpha_3: LKA
+  :domain: ".lk"
+  :numeric_code: '144'
+SD:
+  :en: Sudan
+  :tr: Sudan
+  :alpha_2: SD
+  :alpha_3: SDN
+  :domain: ".sd"
+  :numeric_code: '729'
+SR:
+  :en: Suriname
+  :tr: Surinam
+  :alpha_2: SR
+  :alpha_3: SUR
+  :domain: ".sr"
+  :numeric_code: '740'
+SJ:
+  :en: Svalbard and Jan Mayen
+  :tr: Svalbard ve Jan Mayen
+  :alpha_2: SJ
+  :alpha_3: SJM
+  :domain: ".sj"
+  :numeric_code: '744'
+SZ:
+  :en: Swaziland
+  :tr: Svaziland
+  :alpha_2: SZ
+  :alpha_3: SWZ
+  :domain: ".sz"
+  :numeric_code: '748'
+SE:
+  :en: Sweden
+  :tr: İsveç
+  :alpha_2: SE
+  :alpha_3: SWE
+  :domain: ".se"
+  :numeric_code: '752'
+CH:
+  :en: Switzerland
+  :tr: İsviçre
+  :alpha_2: CH
+  :alpha_3: CHE
+  :domain: ".ch"
+  :numeric_code: '756'
+SY:
+  :en: Syria
+  :tr: Suriye
+  :alpha_2: SY
+  :alpha_3: SYR
+  :domain: ".sy"
+  :numeric_code: '760'
+TW:
+  :en: Taiwan
+  :tr: Tayvan
+  :alpha_2: TW
+  :alpha_3: TWN
+  :domain: ".tw"
+  :numeric_code: '158'
+TJ:
+  :en: Tajikistan
+  :tr: Tacikistan
+  :alpha_2: TJ
+  :alpha_3: TJK
+  :domain: ".tj"
+  :numeric_code: '762'
+TZ:
+  :en: Tanzania
+  :tr: Tanzanya
+  :alpha_2: TZ
+  :alpha_3: TZA
+  :domain: ".tz"
+  :numeric_code: '834'
+TH:
+  :en: Thailand
+  :tr: Tayland
+  :alpha_2: TH
+  :alpha_3: THA
+  :domain: ".th"
+  :numeric_code: '764'
+TG:
+  :en: Togo
+  :tr: Togo
+  :alpha_2: TG
+  :alpha_3: TGO
+  :domain: ".tg"
+  :numeric_code: '768'
+TK:
+  :en: Tokelau
+  :tr: Tokelau
+  :alpha_2: TK
+  :alpha_3: TKL
+  :domain: ".tk"
+  :numeric_code: '772'
+TO:
+  :en: Tonga
+  :tr: Tonga
+  :alpha_2: TO
+  :alpha_3: TON
+  :domain: ".to"
+  :numeric_code: '776'
+TT:
+  :en: Trinidad and Tobago
+  :tr: Trinidad ve Tobago
+  :alpha_2: TT
+  :alpha_3: TTO
+  :domain: ".tt"
+  :numeric_code: '780'
+TN:
+  :en: Tunisia
+  :tr: Tunus
+  :alpha_2: TN
+  :alpha_3: TUN
+  :domain: ".tn"
+  :numeric_code: '788'
+TR:
+  :en: Turkey
+  :tr: Türkiye
+  :alpha_2: TR
+  :alpha_3: TUR
+  :domain: ".tr"
+  :numeric_code: '792'
+TM:
+  :en: Turkmenistan
+  :tr: Türkmenistan
+  :alpha_2: TM
+  :alpha_3: TKM
+  :domain: ".tm"
+  :numeric_code: '795'
+TC:
+  :en: Turks and Caicos Islands
+  :tr: Turks ve Caicos Adaları
+  :alpha_2: TC
+  :alpha_3: TCA
+  :domain: ".tc"
+  :numeric_code: '796'
+TV:
+  :en: Tuvalu
+  :tr: Tuvalu
+  :alpha_2: TV
+  :alpha_3: TUV
+  :domain: ".tv"
+  :numeric_code: '798'
+VI:
+  :en: U.S. Virgin Islands
+  :tr: ABD Virgin Adaları
+  :alpha_2: VI
+  :alpha_3: VIR
+  :domain: ".vi"
+  :numeric_code: '850'
+UG:
+  :en: Uganda
+  :tr: Uganda
+  :alpha_2: UG
+  :alpha_3: UGA
+  :domain: ".ug"
+  :numeric_code: '800'
+UA:
+  :en: Ukraine
+  :tr: Ukrayna
+  :alpha_2: UA
+  :alpha_3: UKR
+  :domain: ".ua"
+  :numeric_code: '804'
+AE:
+  :en: United Arab Emirates
+  :tr: Birleşik Arap Emirlikleri
+  :alpha_2: AE
+  :alpha_3: ARE
+  :domain: ".ae"
+  :numeric_code: '784'
+GB:
+  :en: United Kingdom
+  :tr: Birleşik Krallık
+  :alpha_2: GB
+  :alpha_3: GBR
+  :domain: ".uk"
+  :numeric_code: '826'
+US:
+  :en: United States
+  :tr: Amerika Birleşik Devletleri
+  :alpha_2: US
+  :alpha_3: USA
+  :domain: ".us"
+  :numeric_code: '840'
+UM:
+  :en: United States Minor Outlying Islands
+  :tr: Amerika Birleşik Devletleri Küçük Dış Adaları
+  :alpha_2: UM
+  :alpha_3: UMI
+  :domain: ".um"
+  :numeric_code: '581'
+UY:
+  :en: Uruguay
+  :tr: Uruguay
+  :alpha_2: UY
+  :alpha_3: URY
+  :domain: ".uy"
+  :numeric_code: '858'
+UZ:
+  :en: Uzbekistan
+  :tr: Özbekistan
+  :alpha_2: UZ
+  :alpha_3: UZB
+  :domain: ".uz"
+  :numeric_code: '860'
+VU:
+  :en: Vanuatu
+  :tr: Vanuatu
+  :alpha_2: VU
+  :alpha_3: VUT
+  :domain: ".vu"
+  :numeric_code: '548'
+VA:
+  :en: Vatican
+  :tr: Vatikan
+  :alpha_2: VA
+  :alpha_3: VAT
+  :domain: ".va"
+  :numeric_code: '336'
+VE:
+  :en: Venezuela
+  :tr: Venezuela
+  :alpha_2: VE
+  :alpha_3: VEN
+  :domain: ".ve"
+  :numeric_code: '862'
+VN:
+  :en: Vietnam
+  :tr: Vietnam
+  :alpha_2: VN
+  :alpha_3: VNM
+  :domain: ".vn"
+  :numeric_code: '704'
+WF:
+  :en: Wallis and Futuna
+  :tr: Wallis ve Futuna
+  :alpha_2: WF
+  :alpha_3: WLF
+  :domain: ".wf"
+  :numeric_code: '876'
+EH:
+  :en: Western Sahara
+  :tr: Batı Sahara
+  :alpha_2: EH
+  :alpha_3: ESH
+  :domain: ".eh"
+  :numeric_code: '732'
+YE:
+  :en: Yemen
+  :tr: Yemen
+  :alpha_2: YE
+  :alpha_3: YEM
+  :domain: ".ye"
+  :numeric_code: '887'
+ZM:
+  :en: Zambia
+  :tr: Zambiya
+  :alpha_2: ZM
+  :alpha_3: ZMB
+  :domain: ".zm"
+  :numeric_code: '894'
+ZW:
+  :en: Zimbabwe
+  :tr: Zimbabve
+  :alpha_2: ZW
+  :alpha_3: ZWE
+  :domain: ".zw"
+  :numeric_code: '716'
